@@ -9,7 +9,9 @@ I am a Backend Intern at Compass UOL, specializing in the development and mainte
 ![Snake animation](https://raw.githubusercontent.com/uannabi/uannabi/output/github-contribution-grid-snake-dark.svg)
 
 ## 📞 Let's Connect!
-Connect on [LinkedIn](https://www.linkedin.com/in/guilhermemarschall/).
+- 📩 **Email**: [guilherme@guilhermemarschall.com.br](mailto:guilherme@guilhermemarschall.com.br) — Feel free to reach out for collaborations or discussions!
+- 🔗 **LinkedIn**: [Guilherme Marschall](https://www.linkedin.com/in/guilhermemarschall/)
+
 
 ## 🧰 Tools & Technologies
 
