@@ -12,7 +12,6 @@ I am a Backend Intern at Compass UOL, specializing in the development and mainte
 - 📩 **Email**: [guilherme@guilhermemarschall.com.br](mailto:guilherme@guilhermemarschall.com.br) — Feel free to reach out for collaborations or discussions!
 - 🔗 **LinkedIn**: [Guilherme Marschall](https://www.linkedin.com/in/guilhermemarschall/)
 
-
 ## 🧰 Tools & Technologies
 
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=white)]()
