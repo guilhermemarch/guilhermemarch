@@ -1,6 +1,6 @@
 # 👋 Hey there,
 
-I am a Backend Intern at Compass UOL, specializing in the development and maintenance of RESTful APIs using Java and Spring Boot. With experience in integrating external APIs using OpenFeign, implementing unit and integration tests with JUnit and Mockito, and applying best development practices like SOLID and Clean Code, I am passionate about building scalable and efficient backend solutions. Additionally, I have experience monitoring and optimizing services with Spring Boot Actuator and logging tools.
+I'm a Computer Science student and backend developer, focused on the development and maintenance of RESTful APIs using Java and Spring Boot. With experience in integrating external APIs using OpenFeign, implementing unit and integration tests with JUnit and Mockito, and applying best development practices like SOLID and Clean Code, I am passionate about building scalable and efficient backend solutions. Additionally, I have experience monitoring and optimizing services with Spring Boot Actuator and logging tools.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermemarschall/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -41,8 +41,6 @@ I am a Backend Intern at Compass UOL, specializing in the development and mainte
 [![JUnit](https://img.shields.io/badge/-JUnit-black?style=flat&logo=JUnit5&logoColor=white)]()
 [![Mockito](https://img.shields.io/badge/-Mockito-black?style=flat&logo=Mockito&logoColor=white)]()
 [![Spring Boot Actuator](https://img.shields.io/badge/-Spring%20Boot%20Actuator-black?style=flat&logo=Spring&logoColor=white)]()
-[![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat&logo=Prometheus&logoColor=white)]()
-[![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat&logo=Grafana&logoColor=white)]()
 
 ### **Development & CI/CD**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=white)]()
@@ -55,7 +53,7 @@ I am a Backend Intern at Compass UOL, specializing in the development and mainte
 ## 🚀 More About My Stack  
 
 I am passionate about designing and building **scalable, high-performance backend systems** with **clean and maintainable code**.  
-I specialize in **Java + Spring Boot**, developing RESTful APIs, integrating **microservices** using **RabbitMQ** and **Kafka**, and working with **containerized environments** using **Docker** and **Kubernetes**.  
+I specialize in **Java + Spring Boot**, developing RESTful APIs, integrating **microservices** using **RabbitMQ** and **Kafka**, and working with **containerized environments** using **Docker**.
 
 - **Security**: I have experience implementing authentication and authorization using **Spring Security** and **JWT**.
 - **Database Optimization**: Proficient in **PostgreSQL, MySQL, and MongoDB**, focusing on indexing and query optimization.
@@ -81,5 +79,3 @@ I specialize in **Java + Spring Boot**, developing RESTful APIs, integrating **m
   - Bachelor's Degree in Computer Science (2023 – Present)
 
 ---
-
-🚀 **Building scalable and efficient backend solutions!**
