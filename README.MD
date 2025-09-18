@@ -7,7 +7,7 @@ computer science enthusiast and backend developer - AWS Certified
 
 ---
 
-## 🧰 Tools & Technologies
+## tools and technologies
 
 ### **Backend**
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=white)]()
@@ -72,6 +72,7 @@ I specialize in **Java + Spring Boot**, developing RESTful APIs, integrating **m
   - Bachelor's Degree in Computer Science (2023 – Present)
 
 ---
+
 
 
 
