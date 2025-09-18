@@ -1,6 +1,5 @@
-# 👋 Hey there,
-
-I'm a Computer Science student and backend developer, focused on the development and maintenance of RESTful APIs using Java and Spring Boot. With experience in integrating external APIs using OpenFeign, implementing unit and integration tests with JUnit and Mockito, and applying best development practices like SOLID and Clean Code, I am passionate about building scalable and efficient backend solutions. Additionally, I have experience monitoring and optimizing services with Spring Boot Actuator and logging tools.
+# 👋 Hey there
+computer science enthusiast and backend developer - AWS Certified
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermemarschall/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -79,3 +78,4 @@ I specialize in **Java + Spring Boot**, developing RESTful APIs, integrating **m
   - Bachelor's Degree in Computer Science (2023 – Present)
 
 ---
+
