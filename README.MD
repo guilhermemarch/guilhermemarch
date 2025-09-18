@@ -45,9 +45,9 @@ computer science enthusiast and backend developer - AWS Certified
 
 ## About My Stack
 
-I started my journey with **Java** by developing **Minecraft mods and plugins**, which sparked my interest in programming and problem-solving. That early experience grew into a passion for building **scalable, high-performance backend systems** with **clean and maintainable code**.
+I started my journey with **Java** by developing **Minecraft mods and plugins**, which sparked my interest in programming and problem-solving. That early experience grew into a passion for building **backend systems**.
 
-I specialize in **Java + Spring Boot**, developing **RESTful APIs**, integrating **microservices** using **RabbitMQ** and **Kafka**, and working with **containerized environments** using **Docker**.
+I have experience in **Java + Spring Boot**, developing **RESTful APIs**, integrating **microservices** using **RabbitMQ** and **Kafka**, and working with **containerized environments** using **Docker**.
 
 - **Security**: Experienced in implementing authentication and authorization using **Spring Security** and **JWT**.  
 - **Database Optimization**: Skilled in **PostgreSQL, MySQL, and MongoDB**, focusing on indexing, query optimization, and schema design.  
@@ -75,6 +75,7 @@ From building fun **Minecraft mods** to designing production-ready backend archi
   - Bachelor's Degree in Computer Science (2023 – Present)
 
 ---
+
 
 
 
