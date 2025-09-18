@@ -1,4 +1,4 @@
-# 👋 Hey there
+
 computer science enthusiast and backend developer - AWS Certified
 
 <p align="center">
@@ -78,4 +78,5 @@ I specialize in **Java + Spring Boot**, developing RESTful APIs, integrating **m
   - Bachelor's Degree in Computer Science (2023 – Present)
 
 ---
+
 
