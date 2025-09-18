@@ -43,7 +43,7 @@ computer science enthusiast and backend developer - AWS Certified
 
 ---
 
-## 🚀 More About My Stack  
+## about my stack
 
 I am passionate about designing and building **scalable, high-performance backend systems** with **clean and maintainable code**.  
 I specialize in **Java + Spring Boot**, developing RESTful APIs, integrating **microservices** using **RabbitMQ** and **Kafka**, and working with **containerized environments** using **Docker**.
@@ -57,7 +57,7 @@ I specialize in **Java + Spring Boot**, developing RESTful APIs, integrating **m
 
 ---
 
-## 📊 GitHub Stats
+## github stats
 
 <p>
 <img width="330px" src="https://github-readme-stats.vercel.app/api?username=guilhermemarch&show_icons=true&count_private=true&theme=merko"/>
@@ -67,11 +67,12 @@ I specialize in **Java + Spring Boot**, developing RESTful APIs, integrating **m
 
 ---
 
-## 📝 Education
+## education
 - **Regional Integrated University (URI) - Santo Ângelo**
   - Bachelor's Degree in Computer Science (2023 – Present)
 
 ---
+
 
 
 
