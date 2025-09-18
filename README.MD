@@ -7,10 +7,6 @@ computer science enthusiast and backend developer - AWS Certified
 
 ![Snake animation](https://raw.githubusercontent.com/uannabi/uannabi/output/github-contribution-grid-snake-dark.svg)
 
-## 📞 Let's Connect!
-- 📩 **Email**: [guilherme@guilhermemarschall.com.br](mailto:guilherme@guilhermemarschall.com.br) — Feel free to reach out for collaborations or discussions!
-- 🔗 **LinkedIn**: [Guilherme Marschall](https://www.linkedin.com/in/guilhermemarschall/)
-
 ---
 
 ## 🧰 Tools & Technologies
@@ -78,5 +74,6 @@ I specialize in **Java + Spring Boot**, developing RESTful APIs, integrating **m
   - Bachelor's Degree in Computer Science (2023 – Present)
 
 ---
+
 
 
