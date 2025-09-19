@@ -2,8 +2,7 @@
 computer science enthusiast and backend developer - AWS Certified
 
 
-
-![Snake animation](https://raw.githubusercontent.com/uannabi/uannabi/output/github-contribution-grid-snake-dark.svg)
+//![Snake animation](https://raw.githubusercontent.com/uannabi/uannabi/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -73,6 +72,7 @@ I have experience in **Java + Spring Boot**, developing **RESTful APIs**, integr
   - Bachelor's Degree in Computer Science (2023 – Present)
 
 ---
+
 
 
 
