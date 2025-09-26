@@ -2,12 +2,7 @@
 computer science enthusiast and backend developer - AWS Certified
 
 ---
----
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=guilhermemarch&show_icons=true&locale=en&layout=compact)
-
----
 ---
 
 ## tools and technologies
@@ -76,6 +71,7 @@ I have experience in **Java + Spring Boot**, developing **RESTful APIs**, integr
   - Bachelor's Degree in Computer Science (2023 – Present)
 
 ---
+
 
 
 
